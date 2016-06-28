@@ -19,3 +19,4 @@
 (load "00_keybind")
 (load "10_elscreen")
 (load "20_calendar")
+(load "20_yaml")
