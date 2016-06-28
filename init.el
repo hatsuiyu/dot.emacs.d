@@ -15,6 +15,7 @@
 
 (push (expand-file-name "config" user-emacs-directory) load-path)
 
+(load "00_default")
 (load "00_display")
 (load "00_keybind")
 (load "10_elscreen")
